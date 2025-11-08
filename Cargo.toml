@@ -7,5 +7,5 @@ edition = "2024"
 
 
 [workspace]
-members = ["csv"]
-default-members = ["csv"]
+members = ["csv-ops", "echo-server"]
+default-members = ["csv-ops"]
